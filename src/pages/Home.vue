@@ -162,7 +162,7 @@ export default {
     }
     .home-respo{
         display: block;
-        padding: 7rem 3rem;
+        padding: 7.1rem 3rem;
         .main{
             display: flex;
             flex-direction: column;
