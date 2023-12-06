@@ -162,8 +162,8 @@ export default {
     }
     .home-respo{
         display: block;
-        margin-top: 150px!important;
-        padding: 4rem 3rem;
+        
+        padding: 6rem 3rem;
         .main{
             display: flex;
             flex-direction: column;
