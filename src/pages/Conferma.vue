@@ -347,6 +347,7 @@ export default {
   .add-product{
     border: 3px solid white;
     padding: .5rem;
+    width: 50%;
     border-radius: 20px;
   }
   .right-cart{
